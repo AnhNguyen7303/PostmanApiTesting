@@ -2,4 +2,5 @@
 
 ## Cài đặt thành công
 
-![Ảnh của TienNHM](https://drive.google.com/file/d/1KNTjX058pkMB91pPfrR3urCNmoVfwUcG/view?usp=sharing)
+![Alt text](E:\2ndSemester3rdYear\Postman\img\0_Cài đặt thành công.png)
+
