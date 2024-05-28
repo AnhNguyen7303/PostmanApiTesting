@@ -40,7 +40,7 @@
 
 ![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/9_hien%20thi%20ket%20qua%20thanh%20cong%20code%20is%20200.png)
 
-## 11. Test code is 900: 
+## 11. Status code is 900: 
 
 ![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/10_test%20code%20is%20900.png)
 
