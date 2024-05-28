@@ -1,4 +1,4 @@
-# Thực hành Postman
+# Thực hành Postman (28/05/2024)
 
 ## 1. Cài đặt thành công(Test collection APIs)
 
