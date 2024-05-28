@@ -47,3 +47,8 @@
 ## 12. Hiển thị kết quả thất bại  : 
 
 ![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/11_hien%20thi%20ket%20qua%20that%20bai%20code%20is%20900.png)
+
+## 13. Response body: Contains string
+
+![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/11_hien%20thi%20ket%20qua%20that%20bai%20code%20is%20900.png)
+
