@@ -50,5 +50,10 @@
 
 ## 13. Response body: Contains string
 
-![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/11_hien%20thi%20ket%20qua%20that%20bai%20code%20is%20900.png)
+### Scripts
+
+![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/12.%20response%20body%20contain.png)
+### Result
+
+![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/12.%20response%20body%20contain.png)
 
