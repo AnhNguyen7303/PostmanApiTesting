@@ -24,12 +24,7 @@
 
 ![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/5_check%20headers%20.png)
 
-## 7. Test code is 200: 
-
-pm.test("Status code is 200", function () {
-    pm.response.to.have.status(200);
-});
-
+## 7. Status code is 200: 
 
 ![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/6_test%20code%20is%20200.png)
 
