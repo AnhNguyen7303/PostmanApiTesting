@@ -1,6 +1,6 @@
 # Thực hành Postman
 
-## 1. Cài đặt thành công
+## 1. Cài đặt thành công(Test collection APIs)
 
 ![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/0_C%C3%A0i%20%C4%91%E1%BA%B7t%20th%C3%A0nh%20c%C3%B4ng.png)
 
@@ -25,6 +25,11 @@
 ![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/5_check%20headers%20.png)
 
 ## 7. Test code is 200: 
+
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
 
 ![jasny-banner](https://github.com/AnhNguyen7303/PostmanApiTesting/blob/main/img/6_test%20code%20is%20200.png)
 
